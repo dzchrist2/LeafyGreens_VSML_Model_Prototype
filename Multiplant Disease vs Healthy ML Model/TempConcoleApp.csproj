@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Multiplant_Disease_vs_Healthy_ML_Model</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Multiplant Disease vs Healthy ML ModelML.Model\LeafyGreens_VSML_Model_Prototype.Model.csproj" />
+  </ItemGroup>
+
+</Project>
